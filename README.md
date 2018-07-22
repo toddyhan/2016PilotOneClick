@@ -1,5 +1,10 @@
 # 2016PilotOneClick
 
+**破解步骤和注意事项已添加到wiki：**
+* https://github.com/toddyhan/2016PilotOneClick/wiki
+
+
+
 **_2016 Honda Pilot One-Click Root &amp; App Installation Tool_**
 
 Many thanks to purespin on XDA for figuring out the signature check mechanism!
